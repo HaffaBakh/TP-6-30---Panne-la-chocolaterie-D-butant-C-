@@ -1,1 +1,1 @@
-# TP-6-30---Panne-la-chocolaterie-D-butant-C-
+TP 6/30 - Panne à la chocolaterie (Débutant C++) 
